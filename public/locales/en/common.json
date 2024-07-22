@@ -1,0 +1,13 @@
+{
+  "title": "AI Trade",
+  "home": "Home",
+  "about": "About",
+  "contact": "Contact",
+  "header": {
+    "welcome": "Welcome to AI Trade",
+    "description": "Experience seamless and intelligent trading"
+  },
+  "button": {
+    "contact_us": "Contact Us"
+  }
+}

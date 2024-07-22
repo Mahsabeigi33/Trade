@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "automated-trading.svg",
+    "title": "Automated Trading",
+    "text": "Harness the power of our advanced trading bots to execute precise trades 24/7, ensuring you never miss an opportunity in the global markets."
+  },
+  {
+    "icon": "copy-trading.svg",
+    "title": "Copy Trading",
+    "text": "Our state-of-the-art copy trading feature allows you to mirror the strategies of top traders, seamlessly integrating their expertise into your portfolio."
+  },
+  {
+    "icon": "risk-management.svg",
+    "title": "Risk Management",
+    "text": "Our bots are equipped with sophisticated risk management tools, designed to protect your investments and maximize your returns."
+  },
+  {
+    "icon": "market-analysis.svg",
+    "title": "Market Analysis",
+    "text": "Stay ahead of the curve with our bots that continuously analyze market trends, providing you with data-driven insights for smarter trading decisions."
+  },
+  {
+    "icon": "customizable-strategies.svg",
+    "title": "Customizable Strategies",
+    "text": "Tailor your trading experience with our customizable bot settings, allowing you to adapt strategies to fit your unique trading style and goals."
+  },
+  {
+    "icon": "user-friendly-interface.svg",
+    "title": "User-Friendly Interface",
+    "text": "Our intuitive platform makes it easy for you to set up and manage your trading bots, even if you're new to automated trading."
+  }
+]
