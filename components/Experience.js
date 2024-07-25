@@ -1,15 +1,14 @@
 import { useTranslation } from 'react-i18next';
 
 export default function Experience() {
-  const { t } = useTranslation();
-
+  const { t } = useTranslation('common');
   return (
-    <div className="flex flex-col items-center justify-center text-center py-16 pb-0 bg-gray-100">
-      <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold text-blue-600 mb-6">
-      {t('header.welcome')}
+    <div className="flex flex-col items-center justify-center text-center py-16 pb-0  bg-gray-900 ">
+      <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold text-amber-400 mb-6">
+      {t('experience.welcome')}
       </h1>
-      <p className="text-left text-base sm:text-lg md:text-xl max-w-4xl text-gray-700 mb-10">
-      {t('header.description')}
+      <p className="text-left text-base sm:text-lg md:text-xl max-w-4xl text-white mb-10">
+      {t('experience.description')}
       </p>
       <div className="w-full max-w-4xl mb-10">
         <img
@@ -19,8 +18,8 @@ export default function Experience() {
         />
       </div>
       
-    <div className="w-full bg-blue-800 h-56 mb-6 mt-[-6rem]">
-        <button className="btn-wide relative top-[100px] bg-white text-blue-600 border-none py-2 px-8 text-lg font-bold rounded-lg hover:bg-blue-500  hover:text-white transition-colors">
+    <div className="w-full bg-gray-200 h-56 mb-6 mt-[-6rem]">
+        <button className="btn-wide relative top-[100px] bg-blue-600 text-white border-none py-2 px-8 text-lg font-bold rounded-lg hover:bg-gray-500  hover:text-black transition-colors">
         {t('button.contact_us')}
         </button>
       </div>

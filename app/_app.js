@@ -1,4 +1,4 @@
-import { appWithTranslation } from 'next-i18next';
+import { appWithTranslation } from './i18n';
 import './globals.css';
 
 function MyApp({ Component, pageProps }) {

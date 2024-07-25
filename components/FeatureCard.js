@@ -7,7 +7,7 @@ export default function FeatureCard({ icon, title, text }) {
   const IconComponent = iconMap[icon] || DocumentChartBarIcon; 
 
   return (
-    <div className="border border-gray-300 rounded-lg p-8 text-center bg-white shadow-lg hover:bg-blue-900 hover:text-white transition-all duration-300 group">
+    <div className="border border-gray-300 rounded-lg p-8 text-center bg-gray-200 shadow-lg hover:bg-blue-900 hover:text-white transition-all duration-300 group">
       <div className="mb-6 flex justify-center">
         <IconComponent className="w-12 h-12 text-blue-800 group-hover:text-white transition-colors duration-300" />
       </div>

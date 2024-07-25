@@ -3,11 +3,171 @@
   "home": "Home",
   "about": "About",
   "contact": "Contact",
-  "header": {
+  "clients" :"Clients",
+  "tutorials" :"Tutorials",
+  "experience": {
     "welcome": "Welcome to AI Trade",
     "description": "Experience seamless and intelligent trading"
   },
+  "footer": {
+    "services": {
+      "title": "Services",
+      "items": {
+        "branding": "Branding",
+        "design": "Design",
+        "marketing": "Marketing",
+        "advertisement": "Advertisement"
+      }
+    },
+    "company": {
+      "title": "Company",
+      "items": {
+        "about": "About us",
+        "contact": "Contact",
+        "buy-product": "Buy Product"
+      }
+    },
+    "legal": {
+      "title": "Legal",
+      "items": {
+        "terms-of-use": "Terms of use",
+        "privacy-policy": "Privacy policy",
+        "cookie-policy": "Cookie policy"
+      }
+    },
+    "footer-info": {
+      "text": "AI Traid Industries Ltd. Providing reliable tech since 2022"
+    }
+  },
+  "topBanner": {
+    "headline": "Trade Smart, Trade Global",
+    "subheadline": "Where Technology Meets Trading",
+    "subSubheadline": "Automate Your Success"
+  },
+  "hero": {
+    "title": "Box Office News!",
+    "description": "Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi."
+    
+  },
   "button": {
-    "contact_us": "Contact Us"
+    "contact_us": "Contact Us",
+    "getStarted": "Get Started",
+    "buy": "Buy Licence",
+    "sigin":"SigIn / Register",
+    "show_more":"Show More"
+  },
+  "features": {
+    "automated-trading": {
+      "title": "Automated Trading",
+      "text": "Harness the power of our advanced trading bots to execute precise trades 24/7, ensuring you never miss an opportunity in the global markets."
+    },
+    "copy-trading": {
+      "title": "Copy Trading",
+      "text": "Our state-of-the-art copy trading feature allows you to mirror the strategies of top traders, seamlessly integrating their expertise into your portfolio."
+    },
+    "risk-management": {
+      "title": "Risk Management",
+      "text": "Our bots are equipped with sophisticated risk management tools, designed to protect your investments and maximize your returns."
+    },
+    "market-analysis": {
+      "title": "Market Analysis",
+      "text": "Stay ahead of the curve with our bots that continuously analyze market trends, providing you with data-driven insights for smarter trading decisions."
+    },
+    "customizable-strategies": {
+      "title": "Customizable Strategies",
+      "text": "Tailor your trading experience with our customizable bot settings, allowing you to adapt strategies to fit your unique trading style and goals."
+    },
+    "user-friendly-interface": {
+      "title": "User-Friendly Interface",
+      "text": "Our intuitive platform makes it easy for you to set up and manage your trading bots, even if you're new to automated trading."
+    }
+},
+"testimonials": {
+    "heading": "What Our Clients Say",
+    "items": [
+      {
+        "name": "John Smith",
+        "position": "Forex Trader",
+        "text": "Using this trading bot has transformed my trading experience. The automated strategies and real-time analysis have significantly boosted my profits while minimizing risks. Highly recommend!",
+        "image": "/john-smith.jpg",
+        "rating": 5
+      },
+      {
+        "name": "Jane Doe",
+        "position": "Cryptocurrency Enthusiast",
+        "text": "I was skeptical at first, but this trading bot has exceeded all my expectations. It's user-friendly, reliable, and has consistently delivered impressive results in the volatile crypto market. A must-have for any serious trader!",
+        "image": "/jane-doe.jpg",
+        "rating": 5
+      },
+      {
+        "name": "Michael Johnson",
+        "position": "Financial Analyst",
+        "text": "The level of precision and efficiency this trading bot offers is unmatched. It's like having a personal trading assistant that never sleeps. My portfolio has grown steadily, and I couldn't be happier with the service.",
+        "image": "/michael-johnson.jpg",
+        "rating": 4
+      },
+      {
+        "name": "Emily Davis",
+        "position": "Professional Trader",
+        "text": "This trading bot has become an essential tool in my trading arsenal. Its ability to analyze market trends and execute trades with lightning speed has given me a competitive edge. Fantastic product!",
+        "image": "/emily-davis.jpg",
+        "rating": 5
+      },
+      {
+        "name": "Robert Wilson",
+        "position": "Cryptocurrency Investor",
+        "text": "I've tried several trading bots, but this one stands out for its accuracy and reliability. The seamless integration with my trading accounts and the customizable settings make it a perfect fit for my investment strategy.",
+        "image": "/robert-wilson.jpg",
+        "rating": 4
+      }
+    ]
+  },
+  "aboutPage": {
+    "banner": {
+      "heading": "Welcome to Our Company",
+      "subheading": "We are dedicated to providing the best services."
+    },
+    "hero": {
+      "heading": "Our Story",
+      "subheading": "Learn more about our journey and values."
+    },
+    "content": {
+      "title": "About Us",
+      "description": "Our company was founded with the mission to provide exceptional services and solutions. We have a dedicated team that works tirelessly to ensure client satisfaction.",
+      "additionalInfo": "Our values are rooted in integrity, innovation, and customer-centricity. We believe in continuous improvement and adapting to the changing needs of our clients.",
+      "missionTitle": "Our Mission",
+      "missionDescription": "To be a leading provider of quality solutions that exceed our clients' expectations. We strive to make a positive impact through our services and contribute to the success of our clients."
+    }
+  },
+  "landingPage": {
+    "title": "We provide the best services to help you succeed.",
+    "description": "",
+    "contact": {
+      "phone": {
+        "title": "Phone",
+        "description": "Reach us at (123) 456-7890."
+      },
+      "email": {
+        "title": "Email",
+        "description": "info@company.com"
+      },
+      "address": {
+        "title": "Address",
+        "description": "1234 Street Name, City, State, 12345."
+      }
+    },
+    "awardedAgency": {
+      "title": "Awarded Agency",
+      "description": "Recognized for our exceptional service."
+    },
+    "freeRevisions": {
+      "title": "Free Revisions",
+      "description": "We offer free revisions to ensure your satisfaction."
+    },
+    "verifiedCompany": {
+      "title": "Verified Company",
+      "description": "Trusted by many clients worldwide."
+    }
   }
+
 }
