@@ -31,7 +31,7 @@ export default function Header() {
               </Link>
             </li>
             <li>
-              <Link href="/clients" className="text-lg font-bold hover:text-blue-600">
+              <Link href="/testimonials" className="text-lg font-bold hover:text-blue-600">
                 {t('clients')}
               </Link>
             </li>

@@ -2,26 +2,18 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
 import Hero from '@/components/Hero';
+import Banner from '@/components/Banner/TopBanner';
 export default function About() {
 
   const { t } = useTranslation('common');
 
   return (
     <div>
-      {/* Top Banner */}
-      <section className="relative">
-        <img
-          src="/about.jpg" 
-          alt="Top Banner"
-          className="w-full h-[400px] object-cover"
-        />
-        <div className="absolute inset-0 flex flex-col items-center justify-center bg-black bg-opacity-50 text-white">
-          <div className="text-center">
-            <h1 className="text-4xl font-bold sm:text-5xl">{t('about.banner.heading')}</h1>
-            <p className="mt-4 text-lg">{t('about.banner.subheading')}</p>
-          </div>
-        </div>
-      </section>
+       <Banner
+        imageSrc="/about.jpg"
+        heading={t('about.banner.heading')}
+        subheading={t('about.banner.subheading')}
+      />
 
       {/* Hero Section */}
       <section className="bg-gray-100 py-12">

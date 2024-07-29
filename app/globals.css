@@ -82,16 +82,15 @@ nav ul li {
   margin: 0 1rem;
 }
 
-.flex-grow {
-  flex-grow: 1;
-}
-
 .keen-slider {
+  position: relative;
   display: flex;
   overflow: hidden;
+  width: 100%;
 }
 
 .keen-slider__slide {
-  min-width: 33.3333%; 
-  box-sizing: border-box;
+  flex: 1 0 100%;
+  width: 100%;
+  position: relative;
 }

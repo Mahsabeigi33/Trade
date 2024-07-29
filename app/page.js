@@ -19,8 +19,7 @@ export default function Home() {
         buttonText={t('button.buy')}
         imageSrc="./GlobalMarket.jpg"
       />
-      
-      <Testimonial />
+      <Testimonial limit={3} />
 
       
     </>
